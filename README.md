@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/hoqc4ubm6crlxt3o?svg=true)](https://ci.appveyor.com/project/Sashkasam/ajs-testing-dz)
+[![Build status](https://ci.appveyor.com/api/projects/status/6f4xk6gu2vby4ipi?svg=true)](https://ci.appveyor.com/project/Sashkasam/ajs-testing-dz)
 ![CI](https://github.com/Sashkasam/ajs-testing-dz/actions/workflows/web.yml/badge.svg)
 # Домашнее задание к занятию "4.Организация тестирования"
 
